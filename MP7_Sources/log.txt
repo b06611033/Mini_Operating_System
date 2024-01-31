@@ -1,0 +1,1366 @@
+========================================================================
+                       Bochs x86 Emulator 2.6.11
+              Built from SVN snapshot on January 5, 2020
+                Timestamp: Sun Jan  5 08:36:00 CET 2020
+========================================================================
+Next at t=0
+(0) [0x0000fffffff0] f000:fff0 (unk. ctxt): jmpf 0xf000:e05b          ; ea5be000f0
+<bochs:1> c
+Installed exception handler at ISR <0>
+Allocating Memory Pool... done
+Installed interrupt handler at IRQ <0>
+Installed interrupt handler at IRQ <14>
+In file system constructor.
+Hello World!
+formatting disk
+mounting file system from disk
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+One second has passed
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+One second has passed
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+Closing file.
+deleting file with id:1
+deleting file with id:2
+creating file with id:1
+looking up file with id = 1
+creating file with id:2
+looking up file with id = 2
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+writing to file
+writing to file
+Closing file.
+Closing file.
+Opening file.
+looking up file with id = 1
+Opening file.
+looking up file with id = 2
+resetting file
+reading from file
+The read string is: 01234567890123456789
+resetting file
+reading from file
+Closing file.
+(0).[2595516000] [0x00000010020c] 0008:000000000010020c (unk. ctxt): lea ecx, ds:[eax+1]       ; 8d4801

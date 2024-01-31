@@ -1,0 +1,331 @@
+========================================================================
+                       Bochs x86 Emulator 2.6.11
+              Built from SVN snapshot on January 5, 2020
+                Timestamp: Sun Jan  5 08:36:00 CET 2020
+========================================================================
+Next at t=0
+(0) [0x0000fffffff0] f000:fff0 (unk. ctxt): jmpf 0xf000:e05b          ; ea5be000f0
+<bochs:1> c
+Installing handler in IDT position 0
+Installing handler in IDT position 1
+Installing handler in IDT position 2
+Installing handler in IDT position 3
+Installing handler in IDT position 4
+Installing handler in IDT position 5
+Installing handler in IDT position 6
+Installing handler in IDT position 7
+Installing handler in IDT position 8
+Installing handler in IDT position 9
+Installing handler in IDT position 10
+Installing handler in IDT position 11
+Installing handler in IDT position 12
+Installing handler in IDT position 13
+Installing handler in IDT position 14
+Installing handler in IDT position 15
+Installing handler in IDT position 16
+Installing handler in IDT position 17
+Installing handler in IDT position 18
+Installing handler in IDT position 19
+Installing handler in IDT position 20
+Installing handler in IDT position 21
+Installing handler in IDT position 22
+Installing handler in IDT position 23
+Installing handler in IDT position 24
+Installing handler in IDT position 25
+Installing handler in IDT position 26
+Installing handler in IDT position 27
+Installing handler in IDT position 28
+Installing handler in IDT position 29
+Installing handler in IDT position 30
+Installing handler in IDT position 31
+Installing handler in IDT position 32
+Installing handler in IDT position 33
+Installing handler in IDT position 34
+Installing handler in IDT position 35
+Installing handler in IDT position 36
+Installing handler in IDT position 37
+Installing handler in IDT position 38
+Installing handler in IDT position 39
+Installing handler in IDT position 40
+Installing handler in IDT position 41
+Installing handler in IDT position 42
+Installing handler in IDT position 43
+Installing handler in IDT position 44
+Installing handler in IDT position 45
+Installing handler in IDT position 46
+Installing handler in IDT position 47
+Installed exception handler at ISR <0>
+Installed interrupt handler at IRQ <0>
+Installed interrupt handler at IRQ <1>
+Frame Pool initialized
+Frame Pool initialized
+Installed exception handler at ISR <14>
+WE TURNED ON PAGING!
+If we see this message, the page tables have been
+set up mostly correctly.
+Hello World!
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+EXCEPTION DISPATCHER: exc_no = <14>
+DONE WRITING TO MEMORY. Press keyboard to continue testing...
+One second has passed
+One second has passed
+TEST PASSED.
+YOU CAN SAFELY TURN OFF THE MACHINE NOW.
+One second has passed
+One second has passed
+(0).[3917540000] [0x000000100704] 0008:0000000000100704 (unk. ctxt): jmp .-2 (0x00100704)      ; ebfe
